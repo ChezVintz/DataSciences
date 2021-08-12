@@ -5,4 +5,4 @@ Python + Jupyter Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](http
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ChezVintz/DataSciences/main?urlpath=rstudio)
 
-JupyterLab:[![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/ChezVintz/DataSciences/main?urlpath=lab) (Jupyter Lab)
+JupyterLab:[![Binder](https://mybinder.org/badge_logo.svg)](https://beta.mybinder.org/v2/gh/ChezVintz/DataSciences/main?urlpath=lab) 
